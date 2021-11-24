@@ -1,4 +1,4 @@
-# myfirstapp
+# MyFirstApp
 This is my first application utilizing several different programming languages
  
  What is Included in this application? (Programming languages used) 
