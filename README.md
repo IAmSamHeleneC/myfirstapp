@@ -1,10 +1,10 @@
 # MyFirstApp
-This is my first application utilizing several different programming languages
+This is my first application utilizing several different programming languages and incorporating springboot for the first time. 
  
  What is Included in this application? (Programming languages used) 
-CSS Styling (through a CSS Sheet)
-
-HTML (multiple pages) 
+-CSS Styling (through a CSS Sheet)
+-Java file (to include bootstrap) 
+-HTML (multiple pages) 
 What was added in?
 Images to your web pages 
 Investigate HTML Forms & add a form
